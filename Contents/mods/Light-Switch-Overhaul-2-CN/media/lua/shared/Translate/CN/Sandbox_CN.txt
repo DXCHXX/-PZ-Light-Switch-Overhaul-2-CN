@@ -1,0 +1,47 @@
+Sandbox_CN = {
+	Sandbox_Nipswitch = "灯光开关全面改进",
+	Sandbox_Nipswitch_Pagelength = "技能书:总页数",
+	Sandbox_Nipswitch_Pagelength_tooltip = "<RGB:232,209,0>1页 = 即时 \n12页 = 1分钟 \n120页 = 10分钟 (默认沙盒速度) \n将分钟数乘以服务器沙盒阅读速度,得出每12页的分钟数</RGB>",
+	Sandbox_Nipswitch_Booklevel = "技能书:阅读所需的电工等级",
+	Sandbox_Nipswitch_Booklevel_tooltip = "<RGB:232,209,0>阅读该书所需的电工等级",
+	Sandbox_Nipswitch_Bulbdisabled = "开关:禁用移除灯泡",
+	Sandbox_Nipswitch_Bulbdisabled_tooltip = "<RGB:232,209,0>勾选后,将禁止从灯光开关上移除灯泡 (忽略灯泡等级值) ",
+	Sandbox_Nipswitch_Bulblevel = "开关:更换灯泡所需等级",
+	Sandbox_Nipswitch_Bulblevel_tooltip = "<RGB:232,209,0>从世界中的开关上移除/替换灯泡所需的电工等级",
+	Sandbox_Nipswitch_Movedisabled = "开关:禁用拾取/放置",
+	Sandbox_Nipswitch_Movedisabled_tooltip = "<RGB:232,209,0>勾选后,玩家不能拾取灯光开关 (忽略移动等级值) ",
+	Sandbox_Nipswitch_Movelevel = "开关:拾取/放置所需等级",
+	Sandbox_Nipswitch_Movelevel_tooltip = "<RGB:232,209,0>在世界中放置/拾取开关所需的等级",
+	Sandbox_Nipswitch_Batterydisabled = "开关:禁用电池连接器",
+	Sandbox_Nipswitch_Batterydisabled_tooltip = "<RGB:232,209,0>勾选后,无法将电池连接器连接到灯光开关 (忽略电池等级值) ",
+	Sandbox_Nipswitch_Batterylevel = "开关:添加电池连接器所需等级",
+	Sandbox_Nipswitch_Batterylevel_tooltip = "<RGB:232,209,0>添加电池的电工最低等级为5 (PZ硬编码) ",
+	Sandbox_Nipswitch_Craftspeed = "制作:所需时间",
+	Sandbox_Nipswitch_Craftspeed_tooltip = "120 = 2分钟 \n300 = 5分钟 \n600 = 10分钟",
+	Sandbox_Nipswitch_Craftwire = "制作:所需电线数量",
+	Sandbox_Nipswitch_Craftwire_tooltip = "<RGB:232,209,0>制作所需电线数量",
+	Sandbox_Nipswitch_ElectronicsScrap = "制作:所需废电子零件数量",
+	Sandbox_Nipswitch_ElectronicsScrap_tooltip = "<RGB:232,209,0>制作所需废电子零件数量",
+	Sandbox_Nipswitch_Craftducttape = "制作:所需胶带数量",
+	Sandbox_Nipswitch_Craftducttape_tooltip = "<RGB:232,209,0>制作所需胶带单位数量",
+	Sandbox_Nipswitch_Craftscrews = "制作:所需螺丝数量",
+	Sandbox_Nipswitch_Craftscrews_tooltip = "<RGB:232,209,0>制作所需螺丝数量",
+
+	Sandbox_Bookchanceplace = "技能书:在世界中找到的几率",
+	Sandbox_Bookchanceplace_option6 = "禁用"
+	Sandbox_Bookchanceplace_option5 = "随处可见"
+	Sandbox_Bookchanceplace_option4 = "常见"
+	Sandbox_Bookchanceplace_option3 = "不常见"
+	Sandbox_Bookchanceplace_option2 = "稀有"
+	Sandbox_Bookchanceplace_option1 = "非常稀有"
+	Sandbox_Bookchanceplace_tooltip = "<RGB:232,209,0>生成地点包括:\n书店文具区\n图书馆柜台\n客厅书架\n住宅办公室桌\n卧室床头柜 ",
+
+	Sandbox_Bookchancezombie = "技能书:在僵尸身上找到的几率",
+	Sandbox_Bookchancezombie_option6 = "禁用"
+	Sandbox_Bookchancezombie_option5 = "随处可见"
+	Sandbox_Bookchancezombie_option4 = "常见"
+	Sandbox_Bookchancezombie_option3 = "不常见"
+	Sandbox_Bookchancezombie_option2 = "稀有"
+	Sandbox_Bookchancezombie_option1 = "非常稀有"
+	Sandbox_Bookchancezombie_tooltip = "<RGB:232,209,0>在倒下的僵尸尸体上生成."
+}

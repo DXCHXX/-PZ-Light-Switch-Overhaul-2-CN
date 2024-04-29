@@ -1,0 +1,4 @@
+Moveables_CN = {
+	Left_Light_Switch = "左侧灯光开关",
+	Right_Light_Switch = "右侧灯光开关",
+}

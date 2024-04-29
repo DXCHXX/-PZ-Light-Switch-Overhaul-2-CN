@@ -1,0 +1,4 @@
+UI_CN = {
+	Lightswitches_fordummies = "聪明的电灯开关修理法",
+	Base.Lightswitches_fordummies = "聪明的电灯开关修理法",	
+}
